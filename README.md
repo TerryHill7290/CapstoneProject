@@ -1,1 +1,1 @@
-# Capstone for cs class
+Capstone for cs class
