@@ -1,1 +1,1 @@
-# CapstoneProject
+# Capstone for cs class
